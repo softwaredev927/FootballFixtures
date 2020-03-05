@@ -1,0 +1,13 @@
+{
+	"league": "Europa League",
+	"season": "2015/16",
+	"start": "2015-11-01",
+	"end": "2016-03-31",
+	"teams": [
+		{ "name": "FC Barcelona" },
+		{ "name": "FC Bayern"},
+		{ "name": "Arsenal" },
+		{ "name": "Chelsea FC" },
+        { "name": "Liverpool FC" }
+	]
+}
